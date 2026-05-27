@@ -44,23 +44,27 @@ Built a Power BI dashboard to analyze sales performance for a coffee business wi
 - Average Order Value (AOV)
 - Monthly Revenue Trend
 - Revenue by Store & Product Category
-## Page 2 – Time Intelligence
+![Overview](Dashboard%20Screenshots/Overview.png)
+
+## Page 2 – Time Sale Analysis
 - Hourly Sales Performance
 - Peak Sales Hour Identification
 - Daily & Weekly Revenue Analysis
 - Revenue Heatmap Visualization
 
+![Time_Sale_Analysis](Dashboard%20Screenshots/Time_Sale_Analysis.png)
 ## Page 3 – Product Performance
 - Top & Bottom Selling Products
 - Category Contribution
 - Quantity & Pricing Analysis
+![Product_Performance](Dashboard%20Screenshots/Product_Performance.png)
 
-## Page 4 – Store Performance
+## Page 4 – Store Comparison
 - Store Revenue Comparison
 - Store-Level KPI Benchmarking
 - Product Mix by Store
 - Revenue & Order Distribution
-
+![Store_Comparison](Dashboard%20Screenshots/Store_Comparison.png)
 
 ---
 
